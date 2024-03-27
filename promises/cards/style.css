@@ -1,0 +1,28 @@
+
+body {
+    background-color: blue;
+    text-align: center;
+}
+
+.container {
+    margin: auto;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+}
+button {
+    padding: 10px;
+    width: 100px;
+    border-radius: 10px;
+    font-size: 1rem;
+    margin: 20px;
+}
+#card-area {
+    margin-top: 100px;
+}
+#card-area > img {
+    position: absolute;
+    left: 0;
+    right: 0;
+    margin: auto;
+}
